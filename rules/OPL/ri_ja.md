@@ -1,3 +1,5 @@
+[日本語](./ri_ja.md) | [English](./ri_en.md)
+
 # Robot Inspection
 
 参考動画：https://youtu.be/JweIZ0n_2gs
