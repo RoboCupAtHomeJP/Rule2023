@@ -1,12 +1,12 @@
 [日本語](./gr_ja.md) | [English](./gr_en.md)
 # General Rules & Regulations
 
-The competition in the Open Platform League (`OPL`) of RoboCup Japan Open @Home 2023 (referred to as "RCJ2023" below) will be held in accordance with the General Rules & Regulations described on this page. These General Rules & Regulations have been created based on Chapter 3 `General Rules & Regulations` of the [RoboCup 2023 Rulebook (March 28, 2023)](https://robocupathome.github.io/RuleBook/rulebook/master.pdf).
+The competition in the Open Platform League (`OPL`) of RoboCup Japan Open @Home 2023 (referred to as "RCJ2023" below) will be held in accordance with the General Rules & Regulations described on this page. These General Rules & Regulations have been created based on Chapter 3 `General Rules & Regulations` of the [RoboCup 2022 Rulebook (Rev-1298)](https://athome.robocup.org/wp-content/uploads/2022_rulebook.pdf).
 
-Regarding any changes not mentioned on this page related to the [RoboCup 2023 Rulebook](https://robocupathome.github.io/RuleBook/rulebook/master.pdf) will not be considered. Therefore, the rules will be finalized through discussions with participating teams via GitHub Issues.
+Regarding any changes not mentioned on this page related to the [RoboCup 2022 Rulebook (Rev-1298)](https://athome.robocup.org/wp-content/uploads/2022_rulebook.pdf) will not be considered. Therefore, the rules will be finalized through discussions with participating teams via GitHub Issues.
 
 > **Warning**
-> If there is any inconsistency​ between the Japanese version and English version of the RCJ2023 General Rules & Regulations, we will take the Japanese version as priority.
+> If there is any inconsistency between the Japanese version and English version of the RCJ2023 General Rules & Regulations, we will take the Japanese version as priority.
 
 
 ## Team Registration and Qualification
@@ -118,7 +118,7 @@ Robots participating in the RoboCup@Home Open Platform League must comply with t
 
 #### **Size and Weight**
 
-1. **Dimensions**: The dimensions of a robot should not exceed the limits of an average door (200 cm by 70 cm in most countries). The TC may allow the qualification and registration of larger robots, but, due to local restrictions, it cannot be guaranteed that the robots can actually enter the Arena. In doubt, please contact the organizers.
+1. **Dimensions**: The dimensions of a robot should be able to pass through the door used in the task environment (1.2 [m]). The TC may allow the qualification and registration of larger robots, but, due to local restrictions, it cannot be guaranteed that the robots can actually enter the Arena. In doubt, please contact the organizers.
 
 1. **Weight**: There are no specific weight restrictions; however, the weight of the robot and the pressure it exerts on the floor should not exceed local regulations for the construction of offices and/or buildings which are used for living in the country where the competitions is being held.
 
