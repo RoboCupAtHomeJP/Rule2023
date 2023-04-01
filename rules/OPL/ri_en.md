@@ -23,7 +23,7 @@ This task focuses on door opening, navigation, obstacle avoidance, emergency sto
 
 - **Location**: An arena environment based on a home environment will be used. The competition will take place both inside and outside the arena.
 - **Start Location**: The robot will start from outside the arena.
-- **End Location**: The robot will move towards the obstacle avoidance area.
+- **End Location**: The robot will move towards the middle point of the `Room2: Dining Room`.
 
 
 ## Scenario
