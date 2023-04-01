@@ -25,7 +25,7 @@ This task focuses on finger-pointing recognition, manipulation, mapping and navi
 ## Settings
 
 - **Location**: An arena environment based on a home environment will be used. The competition will take place both inside and outside the arena. The `inside of the arena` can be mapped in advance (`known environment`), but mapping of the `outside of the arena` is prohibited (`unknown environment`).
-- **Starting location**: The robot will start from a pre-specified location in `Room 2: Dining Room`.
+- **Starting location**: The robot will start in the center of the `Room 2: Dining Room` facing towards the middle point between the chairs position.
 - **Luggage (paper bags)**: Two paper bags will be placed near the operator (within 2\[m\] of the robot and visible to it).
   <!-- - [荷物(バッグ)](https://www.amazon.co.jp/gp/product/B07T52SRRN/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)には，200×240×90[mm]のものを使用します．-->
   - **Size**: 260 x 10 x 310\[mm\] [Amazon Link](https://www.amazon.co.jp/dp/B0173OZPSW/?th=1)．
