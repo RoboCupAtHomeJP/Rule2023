@@ -78,6 +78,7 @@ The following Deus Ex Machina can be used for this task. By using Deus ex Machin
 | **Bonus Task**                            |   |
 | Describe the four features of the first guest        | $4 \times 20$ |
 | **Penalty**                            |   |
+| &emsp; Restart | Score earned right after the restart $\times -0.5$|
 | &emsp; Not attending (absence without permission)                      | $-500$  |
 | **Total**                                  | $500$ |
 
