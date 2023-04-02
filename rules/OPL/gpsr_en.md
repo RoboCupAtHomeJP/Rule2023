@@ -63,7 +63,7 @@ If the deus ex machina listed in the General rules is used, the score for the ta
 
 ## Restart
 
-Restarts are handled as follows, depending on the stage. If the robot has completed Step 1, the robot can continue the previous task after restarting. In this case, the robot may repeat command understanding and task execution, and once scored, no points will be deducted.
+Restarts are handled as follows, depending on the stage. If the robot has completed Step 1, the robot can continue the previous task after restarting. In this case, the robot may repeat command understanding and task execution, and once scored, no points will be deducted. However, the score earned right after the restart is reduced to half as a penalty.
 
 - While understanding the $n(\le 2)$th command,
   - Resume the next command as the $n$th command.
@@ -99,6 +99,7 @@ The robot's actions are divided into four steps, and each step is scored separat
 | Execute the 2nd command with $h$ times human help(s) | $-4h \times cat$ |
 | Execute the 3rd command with $h$ times human help(s) | $-8h \times cat$ |
 | **Penalty** | |
+| Restart | Score earned right after the restart  $\times -0.5$| 
 | Not attending (absence without permission) | $-500$ |
 | **Total** | $500$ |
 
