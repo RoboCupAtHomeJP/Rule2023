@@ -293,7 +293,7 @@ In RCJ2023, the time limits set for each task are strictly followed, and there a
 
 ### Restart
 
-In RCJ2023, teams are allowed to restart as many times as they want within the time limit. However, the points earned until the restart point will be reduced to half.
+In RCJ2023, teams are allowed to restart as many times as they want within the time limit. However, the points earned right after the restart will be reduced to half.
 
 If the robot is holding an object during a restart, the team can choose whether to keep it or release it. Objects released will be stored outside the arena and cannot be used again until the end of the task.
 
