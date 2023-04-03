@@ -96,11 +96,14 @@ Some tests in the RoboCup@Home league involve memorizing a person’s name. All 
 
 ### Wireless network
 
-In `RCJ2023`, a wireless communication network environment will not be provided. Therefore, the use of team-specific WiFi access points will be allowed at the venue.
+In `RCJ2023`, a wireless communication network environment will not be provided. Please be aware of that.
+
+<!--
+Therefore, the use of team-specific WiFi access points will be allowed at the venue.
 
 > **Warning**
 > If any unnatural robot movements (caused by remote operation or other means) are detected, penalties such as deduction of points, disqualification, or even disqualification of the entire competition may be imposed.
-
+-->
 
 ## Robots
 `The robots used in RCJ2023 must meet the following requirements. Verification of compliance will be conducted at the [Robot Inspection](./ri_en.md).
@@ -191,7 +194,7 @@ All teams have the right to participate in the `Technical Challenge` at `RCJ2023
 
 ### Schedule
 
-Details of the schedule for the competition will be added as they are arranged.
+Details of the schedule for the competition will be publish in the [AtHome2023](https://github.com/RoboCupAtHomeJP/AtHome2023) repository.
 
 ## Procedure during Tests
 
@@ -332,11 +335,13 @@ It must be clearly stated:
 
 For each competition task, `Deus Ex Machina` provides various items. For details, please check each task contents. If you want to add any additional `Deus Ex Machina` rule, please let us know on GitHub Issue. We would like to actively consider and adopt them.
 
+<!--
 `RCJ2023` strongly recommends the following Deus Ex Machina in particular:
 
 - Ensure reliable alternative means of voice recognition through active use of QR codes.
 - Utilize interaction methods such as touch displays mounted on robots.
 - Provide instructions to referees using the robot's voice and display.
+-->
 
 Referees will respond as much as possible to clear instructions given by the robot, such as "Open the door," "Move the chair," or "Take the object and put it in the hand." However, they cannot handle points that exceed the limits of the referee, such as unclear voice, instructions in languages other than English or Japanese, or images that are too small to read.
 
