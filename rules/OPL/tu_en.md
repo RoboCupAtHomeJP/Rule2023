@@ -32,7 +32,7 @@ This task focuses on autonomous navigation in a known environment, object recogn
 
 1. **Competition time**: The competition time is a total of **20 minutes**, with 15 minutes for the `Task 1: Tidy Up Phase` and 5 minutes for the `Task 2: Delivery Phase`.
 1. **Arrangement**: The referee instructs the team to move the robot to the starting position and, according to the referee's instructions, the team arranges the objects to be used. The maximum number of objects that will be used in the `Task 1: Tidy Up Phase` is 10 objects.
-1. **Start**: The referee gives the starting signal and starts the timer. At the same time, the team completes the robot starting setup (such as pressing the start button) and leaves the area. Complex setup procedures such as pressing more than two buttons are not allowed. Moreover, touching the robot after this point will result in immediate disqualification.
+1. **Start**: The referee gives the starting signal and starts the timer. At the same time, the team completes the robot starting setup (such as pressing the start button) and leaves the area. Complex setup procedures such as pressing more than two buttons are not allowed. 
 1. **Door opening**: One person from your team opens the door at the starting signal. The robot recognizes that the door has opened and autonomously enters the arena.
 
 ### Task 1: Tidy Up Phase
@@ -62,7 +62,7 @@ Finally, the objects used as obstacles are called `dummy objects`, which will be
 > **Note**
 > `Known objects` (previously announced): https://github.com/RoboCupAtHomeJP/AtHome2021/blob/master/Data/opl_known_object_list.pdf
 
-### Proportion​ of the objects
+### Proportion of the objects
 
 - `Known objects` (previously announced) ｜ Announced: 9 objects　→　During the task: 6 objects
 - `Known objects` (during Setup Day) ｜ Announced: 3 objects　→　During the task: 3 objects
@@ -70,7 +70,7 @@ Finally, the objects used as obstacles are called `dummy objects`, which will be
 - `Dummy objects`（during Setup Day）｜ Announced: 3 objects　→　During the task: 3 objects (only one variety)
 
 > **Note**
-> Objects other than `known objects` (previously announced) will be provided by the Executive Commitee (EC) to each team on the Setup Day.
+> Objects other than `known objects` (previously announced) and `unknown objects` will be provided by the Executive Commitee (EC) to each team on the Setup Day.
 
 > **Warning**
 > `Unknown objects` will be changed after all the teams finish the first trial.
@@ -186,7 +186,7 @@ The following Deus ex Machina will be adopted in this task. With Deus ex Machina
 ## Instructions from the Executive Committee (EC)
 
 - Preparation (several days to several weeks before the competition)
-  - Selection and purchase of unknown objects by the.
+  - Selection and purchase of Known objects (during Setup Day) and unknown objects.
 - Announcements (30 minutes before the competition)
   - Selection of the placement order of the objects and announce it to the teams.
   - Specify the unknown object and announce it to the teams.
