@@ -39,7 +39,7 @@ This task focuses on finger-pointing recognition, manipulation, mapping and navi
 
 1. **Competition time**: The competition will last for **7 minutes**.
 1. **Setup**: The referee instructs the team to move the robot to the starting position.
-1. **Start**: The referee gives the start signal and starts the timer. At the same time, the team completes the final simple setup (pressing the starting button, etc.) and leaves the area. Complex setup procedures such as pressing more than two buttons are not allowed. After this point, if the team touches the robot, they will be immediately disqualified.
+1. **Start**: The referee gives the start signal and starts the timer. At the same time, the team completes the final simple setup (pressing the starting button, etc.) and leaves the area. Complex setup procedures such as pressing more than two buttons are not allowed.
 1. **Pointing**: The operator points to the paper bag that was specified in advance at the same time as the start signal.
 1. **Grasping**:  The robot recognizes the bag pointed to by the operator and grasps it.
 
@@ -98,6 +98,7 @@ The following Deus ex Machina will be adopted in this task. With Deus ex Machina
       </ul> 
     </td>
   </tr>
+  <!--
    <tr>
     <td> Mapping of unknown environment </td>
     <td>
@@ -107,6 +108,7 @@ The following Deus ex Machina will be adopted in this task. With Deus ex Machina
       </ul> 
     </td>
   </tr>
+  -->
 </table>
 
 
