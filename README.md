@@ -18,6 +18,13 @@ RoboCup Japan Open 2023 @ホームリーグで使用するルール公開用リ�
 
 ## Domestic Standard Platform League (DSPL)
 
+## Tasks
+- [Robot Inspection](rules/DSPL/ri_ja.md) (setup day)
+- [Resutaurant](rules/DSPL/restaurant.md)
+- [TidyUp](rules/DSPL/tidyup.md)
+- [General Purpose Service Robot (GPSR)](rules/DSPL/gpsr.md)
+- [Technical Challenge](rules/DSPL/technical_challenge.md)
+
 ## Education League
 
 ## Simulation Open Platform League
