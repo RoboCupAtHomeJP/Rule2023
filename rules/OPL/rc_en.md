@@ -53,7 +53,7 @@ The following Deus Ex Machina can be used for this task. By using Deus ex Machin
 
 | Action | Bypassing |
 | ------ | --------- |
-| Host detection | Identify the host by using a marker |
+| Human detection | Identify human(s) by using marker(s) |
 | Detecting empty seats | Identify empty seats by placing markers on them |
 
 ## Score sheet
@@ -77,6 +77,8 @@ The following Deus Ex Machina can be used for this task. By using Deus ex Machin
 | &emsp; Point or face the empty seat for the second guest              | $65$ |
 | **Bonus Task**                            |   |
 | Describe the four features of the first guest        | $4 \times 20$ |
+| **Deus Ex Machina** |  |
+| &emsp; Direct attention by detecting human(s) using marker(s) | $-17.5$ |
 | **Penalty**                            |   |
 | &emsp; Restart | Score earned right after the restart $\times -0.5$|
 | &emsp; Not attending (absence without permission)                      | $-500$  |
