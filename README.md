@@ -26,5 +26,6 @@ RoboCup Japan Open 2023 @ホームリーグで使用するルール公開用リ�
 - [Technical Challenge](rules/DSPL/technical_challenge.md)
 
 ## Education League
-
+- [Find My Mates](rules/EDU/fmm_ja.md)
+- Carry My Luggage
 ## Simulation Open Platform League
